@@ -18,6 +18,7 @@
                 <li><a href = "team.php">Team</a></li>
                 <li><a href = "menu.php">menu</a></li>
                 <li><a href = "contact.php">contact</a></li>
+                <li><a href = "contact.php">aboutus</a></li>
             </ul>
          </div> <!-- nav -->
             <div class ="content">
